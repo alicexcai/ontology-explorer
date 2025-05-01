@@ -4,6 +4,39 @@ from utils import load_data, FacetedNavigator
 df, tax = load_data()
 nav = FacetedNavigator(df, tax)
 
+# ──────────────────────────────────────────────────────────────────────────
+# Pretty breadcrumb: one line per level, growing number of ">" prefixes.
+# The leaf gets a ✅ in front of it.
+# ──────────────────────────────────────────────────────────────────────────
+def ladder(role: str, leaf: str, tax) -> str:
+    """
+    Return a markdown string formatted like:
+        root
+        > child
+        >> child2
+        >>> ✅leaf
+    """
+    tx = tax[role]
+    if not leaf:
+        return "—"
+
+    # Build ancestor chain  (root … leaf)
+    chain = [leaf]
+    node = leaf
+    while node in tx.parent:
+        node = tx.parent[node]
+        chain.append(node)
+    chain.reverse()
+
+    lines = []
+    for depth, node in enumerate(chain):
+        prefix = "> " * depth               # "", "> ", ">> ", …
+        bullet = f"✅{node}" if depth == len(chain) - 1 else node
+        lines.append(prefix + bullet)
+    return "\n".join(lines)
+
+
+
 # session-state dict of current selections
 if "sel" not in st.session_state:
     st.session_state.sel = {r: None for r in nav.roles}
@@ -88,9 +121,11 @@ if (isinstance(selected, list) and selected) or (
 
     st.markdown("---")
     st.subheader("Task details")
-    st.write(f"**Description:** {row_dict['Task']}")
-    st.write(f"**Verb:** {row_dict['Verb']}")
-    st.write(f"**Object:** {row_dict.get('Object', '—') or '—'}")
-    st.write(f"**Purpose:** {row_dict.get('Purpose', '—') or '—'}")
-    st.write(f"**Method:** {row_dict.get('Method', '—') or '—'}")
 
+    # free-text task sentence
+    st.write(f"**Description:** {row_dict['Task']}")
+
+    # ladder for each semantic role
+    for role in ["Verb", "Object", "Purpose", "Method"]:
+        path_md = ladder(role.lower(), row_dict.get(role, ""), tax)
+        st.markdown(f"**{role}:**\n{path_md}")
