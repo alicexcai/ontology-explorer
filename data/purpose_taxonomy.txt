@@ -1,0 +1,116 @@
+{
+  "[virtual] for producing and delivering goods": {
+    "[virtual] for selecting and preparing materials": {
+      "for different types of linens, furniture, flooring, and surfaces": {},
+      "for products": {},
+      "for use based on strength, color, texture, balance, weight, size, malleability and other characteristics": {},
+      "for use in landscape designs": {},
+      "to be used": {},
+      "to be used for patterns": {},
+      "to be used for products": {}
+    },
+    "[virtual] for shaping and machining": {
+      "for removing obstacles such as liners, broken casing, screens, or drill pipe": {},
+      "for set construction": {},
+      "to form specified contours": {},
+      "to machine workpieces into the desired shapes": {}
+    },
+    "[virtual] for cleaning and preservation": {
+      "for cleaning": {},
+      "to implement corrosion control or mitigation": {}
+    },
+    "[virtual] for optimizing production flow and logistics": {
+      "for each operation": {},
+      "to achieve efficient production": {},
+      "to improve tracking and reporting of materials or products distribution, storage, or inventory": {},
+      "to maximize economy by combining shipments or consolidating warehousing and distribution": {},
+      "to transport ore, waste materials, and mineral products efficiently and economically": {},
+      "to complete work assignments": {}
+    },
+    "[virtual] for extracting and processing resources": {
+      "to ensure safe, economical, and environmentally sound extraction of minerals and ores": {}
+    }
+  },
+
+  "[virtual] for managing information and technology": {
+    "[virtual] for designing and maintaining data systems": {
+      "for analyzing data": {},
+      "for data warehousing evaluative procedures": {},
+      "to monitor database performance": {}
+    },
+    "[virtual] for developing digital infrastructure": {
+      "for Web architecture or technologies": {},
+      "to devise a suitable web address": {}
+    },
+    "[virtual] for sensing, control, and communication": {
+      "for motion control, position sensing, pressure sensing, or electronic communication": {},
+      "to assess electromechanical circuits, equipment, processes, systems, or subsystems": {}
+    },
+    "[virtual] for organizing and sharing information": {
+      "for effective presentation of information": {},
+      "to organize this material into appropriate formats": {},
+      "to support patients, health care professionals, and their information management": {}
+    }
+  },
+
+  "[virtual] for communicating and educating": {
+    "[virtual] for creating and refining media": {
+      "for musical presentations": {},
+      "to illustrate material": {},
+      "to obtain the best sites and angles": {},
+      "to produce required images": {},
+      "to form a logical and smoothly running story": {},
+      "to be displayed at trade or special production shows": {}
+    },
+    "[virtual] for planning events and visits": {
+      "to be taken to athletic competition sites": {},
+      "to be visited": {},
+      "to ensure maximum attendance": {}
+    },
+    "[virtual] for delivering education and training": {
+      "for courses or projects": {},
+      "for teaching and research": {},
+      "to help individuals learn work and life-management skills": {},
+      "to ensure educational effectiveness": {}
+    }
+  },
+
+  "[virtual] for supporting people and organizations": {
+    "[virtual] for employment and labor relations": {
+      "for collection": {},
+      "for labor disputes or contract negotiations": {},
+      "making hiring recommendations": {}
+    },
+    "[virtual] for therapy and patient care": {
+      "to accomplish therapy session objectives": {},
+      "to address patient needs": {},
+      "to administer pre-anesthetic": {},
+      "to coordinate occupational therapy with other therapeutic activities": {},
+      "to fit patients' needs and capabilities": {},
+      "to meet treatment objectives": {},
+      "to prescribe post-anesthesia treatments": {},
+      "to support patients, health care professionals, and their information management": {}
+    },
+    "[virtual] for financial and investment decisions": {
+      "for purchase by an investment fund": {}
+    }
+  },
+
+  "[virtual] for researching and ensuring quality": {
+    "[virtual] for scientific and exploratory research": {
+      "for various research scenarios": {},
+      "to achieve desired offspring characteristics": {},
+      "to permit identification of chromosome pairs": {}
+    },
+    "[virtual] for testing and assessment": {
+      "for the non-destructive testing of products or materials": {},
+      "to obtain information on individuals' intelligence, achievements, interests, or personalities": {}
+    },
+    "[virtual] for meeting standards and specifications": {
+      "to ensure compliance with government standards": {},
+      "to meet functional specifications": {},
+      "to meet project needs": {},
+      "to meet required standards of accuracy": {}
+    }
+  }
+}

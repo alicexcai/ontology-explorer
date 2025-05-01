@@ -1,0 +1,164 @@
+{
+  "[virtual] following specifications & formal requirements": {
+    "[virtual] following specifications & standards": {
+      "according to press run lengths": {},
+      "according to product specifications": {},
+      "according to production specifications": {},
+      "according to specifications": {},
+      "according to test design and specifications": {},
+      "according to weight and size specifications": {},
+      "according to welding chart specifications or types and thicknesses of metals": {},
+      "according to workpiece, machine functions, or product specifications": {},
+      "according to written specifications or knowledge of metal properties and shop mathematics": {}
+    },
+    "[virtual] following instructions & orders": {
+      "according to instructions": {},
+      "according to machining instructions or knowledge of metal properties": {},
+      "according to projects being assembled": {},
+      "according to the arrangement of illustrative material and copy": {},
+      "according to work orders or supervisors' instructions": {}
+    },
+    "[virtual] following selection criteria": {
+      "following criteria such as age, education, and interests": {}
+    },
+    "[virtual] meeting compliance & requirements": {
+      "according to classification systems": {},
+      "according to customer requirements": {},
+      "according to job requirements": {},
+      "according to psychological standards": {},
+      "according to state-of-the-art standards": {},
+      "according to training, courses, or projects requirements": {},
+      "assuring compliance with specifications and product requirements": {},
+      "consistent with quality, quantity, specification requirements, or other factors, such as environmental soundness": {},
+      "meeting specified job requirements": {},
+      "that conform to environmental, architectural, structural, site, and code requirements": {}
+    }
+  },
+
+  "[virtual] considering physical & operational characteristics": {
+    "[virtual] considering materials & dimensions": {
+      "according to diameters and lengths of rods": {},
+      "according to markings or sizes, types, or grades": {},
+      "according to materials, sizes and shapes of workpieces, amount... removed, finishes specified, and steps in finishing processes": {},
+      "according to metal types or thicknesses, data charts, or records": {}
+    },
+    "[virtual] considering load, capacity & machine functions": {
+      "according to load weights and sizes, facilities, and work schedules": {},
+      "according to workpiece, machine functions, or product specifications": {},
+      "adding more rods as hole depths increase, and changing drill bits as needed": {}
+    },
+    "[virtual] considering environmental & spatial conditions": {
+      "according to space characteristics and the heat retaining or excluding characteristics of the material": {},
+      "assessing factors such as site, terrain, and weather conditions before beginning work": {},
+      "based on electrical energy requirements, site conditions, price, or other factors": {},
+      "based on space characteristics and the heat retaining or excluding characteristics of the material": {},
+      "based on the heat retaining or excluding characteristics of the material": {},
+      "depending on fire type": {}
+    },
+    "[virtual] considering design & device properties": {
+      "according to device design": {},
+      "according to domain strategy": {},
+      "based on device design": {},
+      "based on properties such as hardness or heat tolerance": {},
+      "based on garment properties such as heat tolerance": {},
+      "considering durability, ease of handling, methods of application, and customers' wishes": {}
+    }
+  },
+
+  "[virtual] accommodating biological & human factors": {
+    "[virtual] accommodating patient physiology": {
+      "according to the patient's physiological requirements": {}
+    },
+    "[virtual] considering animal genetics & behavior": {
+      "according to knowledge of animals, genealogies, traits": {},
+      "according to knowledge of animals, genealogies, traits, and desired offspring characteristics": {},
+      "according to species, size, habits, and environs of birds or animals and reasons for trapping them": {}
+    },
+    "[virtual] respecting human capabilities": {
+      "within limits of their mental or physical capabilities": {}
+    }
+  },
+
+  "[virtual] serving preferences & economics": {
+    "[virtual] satisfying customer & audience preferences": {
+      "based on assessment of items' significance and interest value": {},
+      "based on customer needs": {},
+      "based on customer needs and desires": {},
+      "incorporating crowd preferences and mood": {},
+      "based on factors such as program specialties, audience tastes, or requests from the public": {},
+      "consider such factors as ensemble size and abilities, availability of scores, and the need for musical variety": {},
+      "that offers type of coverage requested by client to underwrite policy": {}
+    },
+    "[virtual] balancing cost & budget factors": {
+      "based on factors such as safety, cost, and deposit characteristics": {},
+      "based on cost, deposit, or budget characteristics": {}
+    },
+    "[virtual] choosing environmentally preferred options": {
+      "select environmentally friendly ones": {}
+    }
+  },
+
+  "[virtual] using data, tools & knowledge resources": {
+    "[virtual] consulting data & documentation": {
+      "from data charts": {},
+      "from commercially available replica sources": {},
+      "from serving or storage areas": {},
+      "from storage": {},
+      "using book reviews, catalogs, faculty recommendations, and current holdings": {}
+    },
+    "[virtual] using tools & measurements": {
+      "using English or metric measures and balance scales": {},
+      "using measuring instruments and hand tools": {},
+      "using precision equipment such as scribers, squares, and protractors": {},
+      "using templates, measuring instruments, and hand tools": {}
+    },
+    "[virtual] applying specialised knowledge & software": {
+      "applying knowledge of metal properties and shop mathematics": {},
+      "applying knowledge of subject, literary expression, and presentation techniques": {},
+      "using computer software": {},
+      "using knowledge of design and properties of materials": {},
+      "using knowledge of machine and production requirements": {},
+      "using knowledge of rock or soil conditions": {},
+      "using aseptic technique and knowledge of medium components and cell requirements": {},
+      "using aseptic techniques": {},
+      "using cleaning standards": {},
+      "based on knowledge of specific areas": {},
+      "based on specimen type and reason for referral": {}
+    },
+    "[virtual] gathering data & evaluation": {
+      "by interviewing": {},
+      "by audition": {},
+      "by evaluating procedures or systems": {},
+      "by using specified requirements": {},
+      "by type and size": {}
+    }
+  },
+
+  "[virtual] selecting & acquiring resources": {
+    "[virtual] selecting & purchasing items": {
+      "by selecting and purchasing technical web services, such as we..., shopping cart software, payment gateway software, or spyware": {},
+      "such as textbooks and laboratory equipment": {},
+      "such as workpieces, objects, and machine parts": {}
+    },
+    "[virtual] choosing sources & storage": {
+      "from which programming will be received or through which programming will be transmitted": {}
+    },
+    "[virtual] planning logistics & transit": {
+      "based on nature of goods shipped, transit times, or security needs": {}
+    }
+  },
+
+  "[virtual] assessing & adjusting conditions": {
+    "[virtual] assessing site & situation": {
+      "according to the nature of strata": {},
+      "depending on factors such as wood hardness and surface type": {},
+      "of preparation and storage of media to maintain potential of hydrogen (pH), sterility, or ability to support growth": {}
+    },
+    "[virtual] adjusting as conditions change": {
+      "as necessary": {},
+      "as required by projects being assembled": {},
+      "working with numerous combinations": {},
+      "to be used during filming": {}
+    }
+  }
+}
