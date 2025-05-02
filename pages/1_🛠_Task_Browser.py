@@ -42,7 +42,7 @@ if "sel" not in st.session_state:
     st.session_state.sel = {r: None for r in nav.roles}
 sel = st.session_state.sel
 
-st.header("📝 Task Browser")
+st.header("🛠 Task Browser")
 
 # ── sidebar filters
 with st.sidebar:
