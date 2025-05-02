@@ -21,7 +21,7 @@ def load_raw(role: str) -> dict:
     return squashed
 
 # ---------------------------------------------------------------------
-st.header("🗂️ Ontology Explorer")
+st.header("🌐 Ontology Explorer")
 
 tabs = st.tabs(["Verb", "Object", "Purpose", "Method"])
 for role, tab in zip(["verb", "object", "purpose", "method"], tabs):
